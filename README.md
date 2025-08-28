@@ -11,7 +11,7 @@
   />
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,git" height="40"/>
 
 <p>
   <a href="https://www.linkedin.com/in/evelyn-a-430880275/" target="_blank">
