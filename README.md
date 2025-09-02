@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,git" height="40"/>
 
 <p>
-  <a href="https://www.linkedin.com/in/evelyn-a-430880275/" target="_blank">
+  <a href="https://www.linkedin.com/in/evelyn-m-430880275/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/evymelo" target="_blank">
