@@ -25,7 +25,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-ffb6c1?style=for-the-badge&logo=tailwind-css&logoColor=9b3a52)
 ![Figma](https://img.shields.io/badge/Figma-ffc2d4?style=for-the-badge&logo=figma&logoColor=9b3a52)
 
-### ♡ back-end & infra — quando necessário
+### ♡ back-end & infra 
 
 ![Node.js](https://img.shields.io/badge/Node.js-ffdde3?style=for-the-badge&logo=node.js&logoColor=9b3a52)
 ![PHP](https://img.shields.io/badge/PHP-ffb6c1?style=for-the-badge&logo=php&logoColor=9b3a52)
