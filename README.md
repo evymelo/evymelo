@@ -17,7 +17,7 @@
 
 ---
 
-### ♡ frontend — meu habitat natural
+### ♡ front-end — meu habitat natural
 
 ![Next.js](https://img.shields.io/badge/Next.js-ffb6c1?style=for-the-badge&logo=next.js&logoColor=9b3a52)
 ![React](https://img.shields.io/badge/React-ffc2d4?style=for-the-badge&logo=react&logoColor=9b3a52)
