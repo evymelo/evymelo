@@ -40,6 +40,28 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=9b3a52)](https://linkedin.com/in/evelyn-m-430880275)
 [![Gmail](https://img.shields.io/badge/Gmail-ffc2d4?style=for-the-badge&logo=gmail&logoColor=9b3a52)](mailto:evyszf@gmail.com)
 
+
+
+###
+
+<h3 align="center">🎀 my stats :</h3>
+
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=evymelo&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=false" height="180"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=evymelo&layout=compact&langs_count=5&theme=rose_pine&hide_border=false" height="180"/>
+
+</td>
+</tr>
+</table>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer)
 
 </div>
