@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=160&section=header&text=olá,%20eu%20sou%20Evelyn!&fontSize=35&fontColor=fff&fontAlignY=45)
 
-🎀 **Front-End Developer** · transformando interfaces em experiências 🌸
+🎀 **Software Engineer** · transformando códigos em experiências 🌸
 
 </div>
 
@@ -10,14 +10,13 @@
 
 ### ♡ sobre mim
 
-- 🎀 apaixonada por **interfaces bonitas, acessíveis e bem construídas**
+- 🎀 apaixonada por **interfaces bonitas e arquitetura de projetos**
 - 🎀 foco em **performance, design system e experiência do usuário**
-- 🎀 também atuo no back-end e infraestrutura quando necessário
 
 
 ---
 
-### ♡ front-end — meu habitat natural
+### ♡ front-end 
 
 ![Next.js](https://img.shields.io/badge/Next.js-ffb6c1?style=for-the-badge&logo=next.js&logoColor=9b3a52)
 ![React](https://img.shields.io/badge/React-ffc2d4?style=for-the-badge&logo=react&logoColor=9b3a52)
